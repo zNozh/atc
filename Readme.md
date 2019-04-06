@@ -1,11 +1,6 @@
-```
-     _  _____ ____ 
-    / \|_   _/ ___|
-   / _ \ | || |    
-  / ___ \| || |___ 
- /_/   \_\_| \____|
-                   
-```
+
+# ATC
+### Description:
 Advanced Texture Changer [BO2 REDACTED]
 This tool was made by Nozh
 https://www.youtube.com/channel/UCs_qwNaT0HOgmIxpXjHQ6QQ
@@ -39,3 +34,4 @@ nzhspc/blank.png
 You can share this .png file with anyone and as long as they put it in their nzhspc folder
 with the name blank.png, they will be able to use your specular that you generated.
 
+![]('https://github.com/zNozh/atc/raw/master/example.png')
