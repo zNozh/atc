@@ -10,7 +10,7 @@ Advanced Texture Changer [BO2 REDACTED]
 This tool was made by Nozh
 https://www.youtube.com/channel/UCs_qwNaT0HOgmIxpXjHQ6QQ
 
-** This will only work with Black Ops 2 Redacted **
+**This will only work with Black Ops 2 Redacted**
 
 # How to install:
 
