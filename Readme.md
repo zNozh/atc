@@ -9,9 +9,16 @@ https://www.youtube.com/channel/UCs_qwNaT0HOgmIxpXjHQ6QQ
 
 # How to install:
 
-## Required:
+## Required for ATCupdater
+1) Download and run https://git-scm.com/download/win
+2) Install.
+3) Test if it works. Run ``git --version`` and it should respond something like:
+`git version 2.20.1.windows.1`
+4) You will now be able to update.
+
+## Required FOR ATC:
 1) Download and run https://imagemagick.org/download/binaries/ImageMagick-7.0.8-38-Q16-x64-dll.exe
-2) Install. This may take a while.
+2) Install.
 3) ImageMagick has now been installed, we need ImageMagick for ATC to function.
 4) Start ATC (or restart if open already.)
 
