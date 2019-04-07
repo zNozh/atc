@@ -19,7 +19,7 @@ https://www.youtube.com/channel/UCs_qwNaT0HOgmIxpXjHQ6QQ
 4) You will now be able to update.
 
 ## ImageMagick (Required FOR ATC):
-1) Download and run https://imagemagick.org/download/binaries/ImageMagick-7.0.8-38-Q16-x64-dll.exe
+1) Download and run https://imagemagick.org/script/download.php (View example-download.png for reference)
 2) Install.
 3) ImageMagick has now been installed, we need ImageMagick for ATC to function.
 4) Start ATC (or restart if open already.)
