@@ -1,5 +1,7 @@
 
 # ATC
+https://discord.gg/v35MMta
+
 ### Description:
 Advanced Texture Changer [BO2 REDACTED]
 This tool was made by Nozh
