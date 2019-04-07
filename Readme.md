@@ -23,7 +23,8 @@ https://www.youtube.com/channel/UCs_qwNaT0HOgmIxpXjHQ6QQ
 4) Start ATC (or restart if open already.)
 
 ## After you install the required setup:
-1) Drag the contents inside of "Nozh" onto the root of your BO2 REDACTED Directory
+1) Drag the contents inside of the "ATCrepo" onto the root of your BO2 REDACTED Directory,
+the link to the ATCrepo is https://github.com/zNozh/ATCrepo/ , if you wasn't aware...
 View example.png for reference...
 2) Run "ATC.bat"
 3) Choose what you would like to do..
